@@ -1,0 +1,11 @@
+/*IMPORTANT CHANGES*/
+.nav-link:hover {
+	background-color: #4CAF50;
+	padding: 10px;
+}
+.block {
+	display: block;
+}
+.nav-link {
+	color:rgba(255,255,255,.5)!IMPORTANT;
+}
